@@ -1,0 +1,27 @@
+# office files
+~$*.doc*
+~$*.xls*
+~$*.ppt*
+~$*.tmp
+
+# python and ide files
+__pycache__/
+*.pyc
+*.pyo
+.vscode/
+.idea/
+env/
+.venv/
+*.log
+*.swp
+.ipynb_checkpoints/
+
+# MacOS sys files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+/Project-File/
